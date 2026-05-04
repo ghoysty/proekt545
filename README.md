@@ -15,6 +15,6 @@ markdown
 ---
 ## Как запустить
 ```bash
-git clone https://github.com/твой-логин/weather-diary.git
-cd weather-diary
+git clone https://github.com/ghoysty/proekt545.git
+cd proekt545
 python main.py
